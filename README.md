@@ -1,7 +1,7 @@
 ﻿# 📱 Application Mobile de Messagerie en temps réel
 
 <p align="center">
-![{370B7E8A-F413-4056-B030-63993BE9F2B3}](https://github.com/user-attachments/assets/c394b8ac-f74b-4283-9243-75fdbba89660)
+  <img src="https://github.com/user-attachments/assets/64c44a9f-3f2f-4ed5-8a08-d5464bec7cba](https://github.com/user-attachments/assets/c394b8ac-f74b-4283-9243-75fdbba89660" alt="Aperçu de l'application">
 </p>
 
 ## 📌 Objectif
